@@ -97,7 +97,7 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
 ## Uso
 1. Compila tu proyecto para crear el archivo `.jar`
 
-   ![Compilar proyecto](Anexos/imagen2.png)
+   ![Compilar proyecto](Anexos/imagen2.PNG)
    Posteriormente presiona `SHIFT + F11`
 
 2. Agrega el componente a tu paleta de componentes.
