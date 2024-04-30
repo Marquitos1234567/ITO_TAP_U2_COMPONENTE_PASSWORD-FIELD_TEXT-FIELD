@@ -26,8 +26,8 @@ Componente de contraseña:
 5.	Interacción de mouse: Cambia el color de la línea debajo del campo de texto cuando el mouse entra o sale del área del campo, lo que ayuda a resaltar la interactividad del campo y proporciona retroalimentación visual al usuario.
 
 ## Requisitos password-field
-•	Java Runtime Environment (JRE) instalado en el sistema.
-•	Bibliotecas externas como org.jdesktop.animation.timing.Animator y org.jdesktop.animation.timing.TimingTarget que deben estar disponibles en el classpath durante la compilación y ejecución.
++ Java Runtime Environment (JRE) instalado en el sistema.
++ Bibliotecas externas como org.jdesktop.animation.timing.Animator y org.jdesktop.animation.timing.TimingTarget que deben estar disponibles en el classpath durante la compilación y ejecución.
 
 ## Requisitos text-field
 1.	Java Runtime Environment (JRE): Se requiere tener instalado Java Runtime Environment en el sistema para ejecutar aplicaciones Java que utilicen este componente de campo de texto personalizado.
@@ -143,5 +143,5 @@ Haz clic para ver el video ahora mismo ---> https://youtu.be/4z0TU_1Falw?si=a970
 
 
 ## Autores
-+ Cuevas Estevez Marcos Gabriel - Estudiante del ITO - [Contacto](Marquitos1234567 (github.com))
-+ Ruiz Garcia Itzi Mariana - Estudiante del ITO - [Contacto](ItziMarianaRuizGarcia (github.com))
++ Cuevas Estevez Marcos Gabriel - Estudiante del ITO - 
++ Ruiz Garcia Itzi Mariana - Estudiante del ITO - 
