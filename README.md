@@ -84,7 +84,7 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
    Clona con el siguiente comando
 
    ```bash
-      git clone https://github.com/JesusAngelMM/ITO_TAP_U2_COMPONENTE_GENERATEPASSWORD.git
+      git clone https://github.com/Marquitos1234567/ITO_TAP_U2_COMPONENTE_PASSWORD-FIELD_TEXT-FIELD
    ```
 
    Otra opción es descargar `ZIP`.
