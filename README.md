@@ -111,32 +111,6 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
 4. Ya está listo para usar y arrastrar a tus componentes
    ![Agregar desde JAR 3](Anexos/imagen5.png)
 
-5. Prueba ya sea en tu `JFrame` o `JDialog` funciona.
-
-   ![Prueba en JFrame o JDialog](adjuntos/imagen7.png)
-
-Ya puedes generar contraseñas seguras según tus necesidades.
-
-Además puedes copiar y pegar la contraseña generada:
-
-   ![Usar el copiado y pegado](adjuntos/imagen8.png)
-
->Recuerda que si quieres usar la contraseña en tu sistema principal, se obtiene a través del método
-
-   ```Java
-   generatePassword.setExternalTextField(elemento_recibe);
-   ```
-Con esto puedes usar las contraseñas directamente en tu aplicación principal o sistema.
-
-![Usar en el sistema principal](adjuntos/imagen9.png)
-
-Por ejemplo en el programa anterior en el `actionPerformad`del botón se agregó lo siguiente:
-
-```Java
-generatePassword1.setExternalTextField(txtDContrasena);
-```
-Que quiere decir *"lo que generó el componente `generatePassword` copialo en el componente `txtDContrasena`"*.
-
 ## Funcionamiento
 ¡Descubre cómo funciona los componentes visuales!
 
@@ -144,5 +118,5 @@ Haz clic para ver el video ahora mismo ---> https://youtu.be/4z0TU_1Falw?si=a970
 
 
 ## Autores
-+ Cuevas Estevez Marcos Gabriel - Estudiante del ITO - 
-+ Ruiz Garcia Itzi Mariana - Estudiante del ITO - 
++ Cuevas Estevez Marcos Gabriel - Estudiante del ITO 
++ Ruiz Garcia Itzi Mariana - Estudiante del ITO  
