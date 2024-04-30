@@ -88,7 +88,7 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
    ```
 
    Otra opción es descargar `ZIP`.
-   ![Descargar ZIP](anexos/imagen1.png)
+   ![Descargar ZIP](Anexos/imagen1.png)
    
 3. Importa el proyecto en tu IDE preferido (NetBeans o VS code).
 
