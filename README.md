@@ -39,7 +39,7 @@ Componente de contraseña:
 ### PasswordField
 
 #### Descripción
-La clase `passwordfield` los desarrolladores pueden crear campos de contraseña que ofrecen una experiencia de usuario más atractiva, personalizada y funcional. 
+Con la clase `passwordfield` los desarrolladores pueden crear campos de contraseña que ofrecen una experiencia de usuario más atractiva, personalizada y funcional. 
 
 #### Constructor
 | Constructor | Descripción |
