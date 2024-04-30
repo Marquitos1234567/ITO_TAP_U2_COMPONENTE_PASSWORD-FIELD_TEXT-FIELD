@@ -97,20 +97,21 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
 ## Uso
 1. Compila tu proyecto para crear el archivo `.jar`
 
-   ![Compilar proyecto](adjuntos/imagen2.png)
+   ![Compilar proyecto](Anexos/imagen2.png)
    Posteriormente presiona `SHIFT + F11`
 
 2. Agrega el componente a tu paleta de componentes.
-   Da click derecho en la paleta y selecciona *Palette Manager* y selecciona *Add From Jar*
+   Da click derecho en la clase con el codigo para el componente, luego en *Tools* y *add to palette*
 
-   Navega hasta la carpeta *dist* del proyecto y selecciona el `.jar`.
-   ![Agregar desde JAR 1](adjuntos/imagen3.png)
-   ![Agregar desde JAR 2](adjuntos/imagen4.png)
-   ![Agregar desde JAR 3](adjuntos/imagen5.png)
+   ![Agregar desde JAR 1](Anexos/imagen3.png)
+   seleccionamos la categoria en la que queremos que este
+   ![Agregar desde JAR 2](Anexos/imagen4.png)
+   
 
-3. Ya está listo para usar y arrastrar a tus componentes
+4. Ya está listo para usar y arrastrar a tus componentes
+   ![Agregar desde JAR 3](Anexos/imagen5.png)
 
-4. Prueba ya sea en tu `JFrame` o `JDialog` funciona.
+5. Prueba ya sea en tu `JFrame` o `JDialog` funciona.
 
    ![Prueba en JFrame o JDialog](adjuntos/imagen7.png)
 
