@@ -141,13 +141,5 @@ Que quiere decir *"lo que generó el componente `generatePassword` copialo en el
 
 Haz clic para ver el video ahora mismo ---> https://youtu.be/4z0TU_1Falw?si=a970fqQfo0C7xRFf.
 
-## Contribuir
-Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tu característica o corrección de errores.
-3. Haz tus cambios.
-4. Envía un pull request.
-
 
 ## Autores
