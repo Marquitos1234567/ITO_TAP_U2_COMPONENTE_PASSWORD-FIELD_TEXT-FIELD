@@ -143,3 +143,5 @@ Haz clic para ver el video ahora mismo ---> https://youtu.be/4z0TU_1Falw?si=a970
 
 
 ## Autores
++ Cuevas Estevez Marcos Gabriel - Estudiante del ITO - [Contacto](Marquitos1234567 (github.com))
++ Ruiz Garcia Itzi Mariana - Estudiante del ITO - [Contacto](ItziMarianaRuizGarcia (github.com))
